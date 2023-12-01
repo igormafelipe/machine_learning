@@ -3,8 +3,6 @@
 # Coded by: Igor Mafra Felipe
 # 11/25/2023
 
-# Realized that plotting anything other than 1 feature is hard.
-
 import numpy as np
 import matplotlib.pyplot as plt
 from polynomial_regression import polynomial_regression
